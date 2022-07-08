@@ -1,9 +1,11 @@
 {
-  "restorans":[{"KFC":{
-    "menu": ["Burger", "Shaurma","Chiken"]
-  }},
-  {"MAC": {
-    "menu":["Nugits", "Cola", "MacFluri"]
-  }}
-  ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
