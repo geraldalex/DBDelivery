@@ -1,0 +1,9 @@
+{
+  "restorans":[{"KFC":{
+    "menu": ["Burger", "Shaurma","Chiken"]
+  }},
+  {"MAC": {
+    "menu":["Nugits", "Cola", "MacFluri"]
+  }}
+  ]
+}
