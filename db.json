@@ -1,6 +1,30 @@
 {
   "restorans": {
-"Макдональдз":[{"name": "Біг тейсті", "img":"https://brfood.com.ua/files/products/hero.sdwch_bigtasty.300x300.png", "price":"112"}]
+"Макдональдз":[{"name": "Біг тейсті", "img":"https://brfood.com.ua/files/products/hero.sdwch_bigtasty.300x300.png", "price":"112"},
+               {"name": "Біг маг", "img":"https://brfood.com.ua/files/products/hero.sdwch_bigmac.300x300.png", "price":"72"},
+               {"name": "Біг Техас", "img":"https://brfood.com.ua/files/products/aitccbifm8iqzhidd36v.1000x1000.300x300.png", "price":"114"},
+               {"name": "Чізбургер", "img":"https://brfood.com.ua/files/products/hero.sdwch_cheeseburger-1.300x300.png", "price":"36"},
+               {"name": "МакЧікен", "img":"https://brfood.com.ua/files/products/hero.sdwch_mcchicken.300x300.png", "price":"64"},
+               {"name": "Гамбургер", "img":"https://brfood.com.ua/files/products/hero.sdwch_hamburger.300x300.png", "price":"31"},
+               {"name": "Філе-о-фіш", "img":"https://brfood.com.ua/files/products/hero.sdwch_file-o-fish.300x300.png", "price":"64"}
+              ],
+    "KFC":[{"name": "Чізбургер", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4061.jpg", "price":"50"},
+               {"name": "Лонгер", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_3737.jpg", "price":"36"},
+               {"name": "Тост 2 сиру", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4065.jpg", "price":"25"},
+               {"name": "Дабл Чікен", "img":"https://brfood.com.ua/files/products/hero.sdwch_cheeseburger-1.300x300.png", "price":"100"},
+               {"name": "Чікенбургер гострий", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4063.jpg", "price":"75"},
+               {"name": "Чікенбургер", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4064.jpg", "price":"75"},
+               {"name": "Тост український", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4068.jpg", "price":"40"}
+              ],
+    "Ris":[{"name": "Динаміт", "img":"https://ris.od.ua/wp-content/uploads/dar_5509-500x500.jpg", "price":"195"},
+               {"name": "Канні хот", "img":"https://ris.od.ua/wp-content/uploads/dar_5511-500x500.jpg", "price":"190"},
+               {"name": "Нагасакі", "img":"https://ris.od.ua/wp-content/uploads/dar_5504-500x500.jpg", "price":"218"},
+               {"name": "Чикаго", "img":"https://ris.od.ua/wp-content/uploads/dar_5508-500x500.jpg", "price":"278"},
+               {"name": "Акай", "img":"https://ris.od.ua/wp-content/uploads/akaj_1-500x500.jpg", "price":"250"},
+               {"name": "Банзай", "img":"https://ris.od.ua/wp-content/uploads/banzaj_1-500x500.jpg", "price":"240"},
+               {"name": "Кодзима", "img":"https://ris.od.ua/wp-content/uploads/kodzima_1-500x500.jpg", "price":"245"},
+           {"name": "Фусіто", "img":"https://ris.od.ua/wp-content/uploads/fusito-roll-500x500.jpg", "price":"190"}
+              ]
   }
    
 }
