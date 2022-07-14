@@ -10,8 +10,8 @@
               ],
     "KFC":[{"id":"8","name": "Чізургер", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4061.jpg", "price":"50"},
                {"id":"9","name": "Лонгер", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_3737.jpg", "price":"36"},
-               {"id":"10","name": "Тост 2 сиру", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4065.jpg", "price":"25"},
-               {"id":"11","name": "Дабл Чікен", "img":"https://brfood.com.ua/files/products/hero.sdwch_cheeseburger-1.300x300.png", "price":"100"},
+               {"id":"10","name": "Тост 2 сиру", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_3729.jpg", "price":"25"},
+               {"id":"11","name": "Дабл Чікен", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4065.jpg", "price":"100"},
                {"id":"12","name": "Чікенбургер гострий", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4063.jpg", "price":"75"},
                {"id":"13","name": "Чікенбургер", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4064.jpg", "price":"75"},
                {"id":"14","name": "Тост український", "img":"https://www.kfc-ukraine.com/admin/files/medium/medium_4068.jpg", "price":"40"}
