@@ -1,6 +1,6 @@
 {
   "restorans": {
-"Макдональдз":[{"id":"1", "name": "Біг тейсті", "img":"https://brfood.com.ua/files/products/hero.sdwch_bigtasty.300x300.png", "price":"112"},
+"McDonalds":[{"id":"1", "name": "Біг тейсті", "img":"https://brfood.com.ua/files/products/hero.sdwch_bigtasty.300x300.png", "price":"112"},
                {"id":"2","name": "Біг маг", "img":"https://brfood.com.ua/files/products/hero.sdwch_bigmac.300x300.png", "price":"72"},
                {"id":"3","name": "Біг Техас", "img":"https://brfood.com.ua/files/products/aitccbifm8iqzhidd36v.1000x1000.300x300.png", "price":"114"},
                {"id":"4","name": "Чізбургер", "img":"https://brfood.com.ua/files/products/hero.sdwch_cheeseburger-1.300x300.png", "price":"36"},
