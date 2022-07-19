@@ -27,6 +27,7 @@
                {"id":"7","name": "Філе-о-фіш", "img":"https://brfood.com.ua/files/products/hero.sdwch_file-o-fish.300x300.png", "price":"64"}
               ]
     
-  }
+  },
+  "orders":[]
    
 }
